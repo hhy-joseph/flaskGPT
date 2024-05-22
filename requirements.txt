@@ -1,3 +1,5 @@
 openai
 Flask
 gunicorn
+Flask-Login
+Flask-SQLAlchemy
